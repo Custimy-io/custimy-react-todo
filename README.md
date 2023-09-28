@@ -44,11 +44,11 @@ When you feel like you have arrived at a good solution, go ahead and zip up the 
 
  ```zip -r submission.zip custimy-react-todo/ -x "custimy-react-todo/node_modules/*" "custimy-react-todo/.git/*"```
 
-A zip file named ```submission.zip``` will be created. Go ahead and upload the file to ```https://wetransfer.com/``` and set the recipient email to ```l.popp@custimy.io```
+A zip file named ```submission.zip``` will be created. Go ahead and upload the file to ```https://wetransfer.com/``` and set the recipient email to ```a.mazur@custimy.io```
 
 ## Help
 If you encounter any problems with the deployment of the application, or you have any questions regarding the actual task, 
-please do not hesitate to send us an email at ```l.popp@custimy.io``` and we will quickly get back to you. 
+please do not hesitate to send us an email at ```a.mazur@custimy.io``` and we will quickly get back to you. 
 Any such questions will **not** count towards your final assessment.
 
 
